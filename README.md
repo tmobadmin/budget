@@ -18,4 +18,4 @@ Please take a look at the resulting page screen shot in img/result.png.
 
 There you can see a resulting application with expenses, incomes, ratios, totals and all other requirements.
 
-Please send back a GitHub repository link to think your solution.
+Please send back a GitHub repository link to see your solution.
